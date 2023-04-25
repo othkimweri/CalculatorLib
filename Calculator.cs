@@ -10,5 +10,11 @@
         {
             throw new NotImplementedException();
         }
+
+        //Adding subtract function
+        int Subtract()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
