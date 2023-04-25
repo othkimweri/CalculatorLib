@@ -1,0 +1,15 @@
+	[Innocent]
+ 	-Ticket number GHT-002
+	-Title – Add A Function To Divide 2 numbers
+	-Description – The calculator library has three 	functions, add subtract and multiply. Client X has 	requested to have a divide function added to the 	library. You are required to add the divide 	function to the library 
+
+
+	[Denis]
+	-Ticket number GHT-003
+	-Title – Add A Function To Give the square root of 	a number
+	-Description – The calculator library has four 	functions, add, subtract, divide and multiply. 	Client X has requested to have a square root 	function added to the library. You are required to 	add the square root function to the library 
+	
+	[Silas]
+	Ticket number GHT-004
+	Title – Add A Function To Give the cube root of a 	number
+	Description – The calculator library has four 	functions, add subtract, divide and multiply. 	Client X has requested to have a cube root function 	added to the library. You are required to add the 	cube root function to the library 
