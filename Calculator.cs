@@ -10,5 +10,21 @@
         {
             throw new NotImplementedException();
         }
+
+
+        int Divide(int number1, int number2)
+        {
+            int result = (number1 / number2);
+        }
+
+
+        //Adding subtract function
+        int Subtract()
+        {
+            throw new NotImplementedException();
+        }
+
     }
+
+
 }
