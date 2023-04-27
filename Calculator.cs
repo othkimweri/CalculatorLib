@@ -31,6 +31,12 @@
         }
 
  Development_merge
+    
+        //Function to determine Cube root of a number
+        public double FindCubeRoot(double number)
+        {
+            return Math.Pow(number, 1 / 3.0);
+        }
     }
 
 
