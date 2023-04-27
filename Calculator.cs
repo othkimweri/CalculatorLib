@@ -11,6 +11,12 @@
             throw new NotImplementedException();
         }
 
+ GHT-003_Development_Added_SquareRoot_Function
+        int Square_Root()
+        {
+            throw new NotImplementedException();
+        }
+
 
         int Divide(int number1, int number2)
         {
@@ -24,6 +30,7 @@
             throw new NotImplementedException();
         }
 
+ Development_merge
     }
 
 
