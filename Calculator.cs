@@ -10,5 +10,10 @@
         {
             throw new NotImplementedException();
         }
+
+        int Square_Root()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
